@@ -134,6 +134,21 @@ a:visited {
   height: 400px;
 }
 
+#sarju-mulmi-cover {
+  background-image: url("http://imgur.com/A0c9IMq.jpg");
+}
+
+#sarju-mulmi-card {
+  background-image: url("http://i.imgur.com/oUBtQgL.jpg");
+  border: 4px #42b3f4 solid;
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
 }
